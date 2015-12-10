@@ -1,7 +1,7 @@
 Saya yang mempunyai identitas di bawah ini,
-NIM   : [NIM]
-Nama  : [nama-lengkap]
-Kelas : [kelas]
+NIM   : 1431140098
+Nama  : Fanistya Dias Afrilia
+Kelas : MI-2D
 
 Dengan ini menyatakan:
 
